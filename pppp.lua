@@ -608,6 +608,10 @@ ahmad
 ahmak
 ahmar
 aho
+ahoi
+ahola
+ahori
+ahosi
 ahsan
 ahwal
 ahzab
@@ -60023,7 +60027,9 @@ uger
 uget
 ugut
 uh
+uhamka
 uhi
+uho
 uhu
 ui
 uih
